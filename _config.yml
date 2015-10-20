@@ -1,0 +1,13 @@
+layout_spectrum: 0.4709989
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#E1E7EA'
+    - '#FE01B4'
+    - '#C5015C'
+    - '#202838'
+    - '#9B6E4B'
+  rhythmicContrast: 1
+typography_spectrum: 0.2937701
