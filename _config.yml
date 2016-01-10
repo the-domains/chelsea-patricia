@@ -1,13 +1,28 @@
-layout_spectrum: 0.4709989
+name: Chelsea Patricia
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.09319
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
   brandColors:
     - '#E1E7EA'
     - '#FE01B4'
     - '#C5015C'
     - '#202838'
     - '#9B6E4B'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-typography_spectrum: 0.2937701
+purpose: []
